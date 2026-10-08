@@ -1,0 +1,49 @@
+{
+  "schema": "mosaico-ideas/project-upload/v1",
+  "project": {
+    "title": "Dilly-dally",
+    "categories": [
+      "display",
+      "audio"
+    ],
+    "boards": [],
+    "tags": [
+      "desk companion",
+      "clock",
+      "focus timer",
+      "pomodoro",
+      "internet radio",
+      "bluetooth audio",
+      "a2dp",
+      "faces",
+      "amoled",
+      "esp-iris rpc"
+    ],
+    "license": "Apache-2.0",
+    "external_links": [
+      {
+        "label": "Source on GitHub",
+        "url": "https://github.com/HackHobby-Lab/dillydally-desk",
+        "platform": "github"
+      }
+    ]
+  },
+  "content": {
+    "readme": "IDEAS.md",
+    "covers": [
+      "images/face-calm.jpg",
+      "images/clock.jpg",
+      "images/focus-timer.jpg",
+      "images/speeches.jpg",
+      "images/settings.jpg",
+      "images/face-sunny.jpg",
+      "images/in-hand-face.jpg",
+      "images/desk.jpg"
+    ],
+    "resources": [],
+    "attachments": []
+  },
+  "release": {
+    "changelog": "First release. A desk companion with a face that blinks, drifts and reacts to touch, a seven segment clock synced over SNTP, a focus timer that the face watches with you, nine internet radio stations, five public domain speeches, and Bluetooth audio out to earphones or a speaker. Swipe between pages or let them turn on their own. Core board only, nothing to attach."
+  }
+}

@@ -1,0 +1,18 @@
+# ESP-IDF build output and resolved dependencies. All regenerable.
+build/
+build-sim/
+build_*/
+managed_components/
+dependencies.lock
+sdkconfig
+sdkconfig.old
+
+# Agent and tool run logs.
+.codex-runs/
+__pycache__/
+*.py[cod]
+
+# Working notes and the reference sheet the faces were drawn from. Not shipped.
+PLAN.md
+docs/
+emotions .jpeg
