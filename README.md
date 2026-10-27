@@ -16,7 +16,7 @@ beyond power.
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-A2DP%20source-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)](#bluetooth-audio)
 [![License](https://img.shields.io/badge/License-Apache%202.0-3A3835?style=for-the-badge)](LICENSE)
 
-[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](https://mosaico-ideas.espressif.com/)
+[![Flash the prebuilt bundle](https://img.shields.io/badge/Flash%20it-Prebuilt%20bundle-FF4C01?style=for-the-badge)](prebuilt/)
 [![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackhobby_lab/)
 
 </div>
@@ -356,13 +356,13 @@ boot back into Vibe Mode.
 
 ## Where else to find this
 
-Flash it from the Mosaico Ideas gallery and skip the clone entirely. Build
+Flash the [prebuilt bundle](prebuilt/) and skip the toolchain entirely. Build
 photos, the bits that did not work, and whatever gets built next go on
 Instagram.
 
 <div align="center">
 
-[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](https://mosaico-ideas.espressif.com/)
+[![Flash the prebuilt bundle](https://img.shields.io/badge/Flash%20it-Prebuilt%20bundle-FF4C01?style=for-the-badge)](prebuilt/)
 [![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackhobby_lab/)
 
 <img src="images/in-hand-clock.jpg" alt="The clock page held in a hand" width="300">
